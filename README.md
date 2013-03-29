@@ -1,0 +1,1 @@
+Stereotype-clj now lives here: https://github.com/josephwilk/stereotype
